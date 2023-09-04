@@ -15,4 +15,4 @@ func pow(x, n, lim float64) float64 {
 	return lim
 }
 
-// NB: if and else statement execution is in For.go
+// NB: if and else statement main function is in For.go

@@ -12,4 +12,4 @@ func sqrt(x float64) string {
 	return fmt.Sprint(math.Sqrt(x))
 }
 
-// NB: if statements execution is in For.go
+// NB: if statements main function is in For.go

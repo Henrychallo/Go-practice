@@ -25,9 +25,9 @@ func main() {
 	//
 	//
 
-	//if statement execution
+	//if statement's main function
 	fmt.Println(sqrt(2), sqrt(-4))
 
-	//if and else statement execution
+	//if and else statement's main function
 	fmt.Println(pow(3, 2, 10), pow(3, 2, 1))
 }
