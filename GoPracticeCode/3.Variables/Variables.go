@@ -22,7 +22,7 @@ func main() {
 
 	fmt.Println(x, y, z, Pi)
 
-	//short variable declaration without using "var" (only inside a function)
+	//short variable declaration without using "var" (only done inside a function)
 	k := 3
 	fmt.Println(k)
 }

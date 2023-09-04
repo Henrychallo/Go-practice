@@ -25,9 +25,11 @@ func main() {
 	//
 	//
 
-	//if statement's main function
+	// main function for if.go file
+	fmt.Println("Output for if.go")
 	fmt.Println(sqrt(2), sqrt(-4))
 
-	//if and else statement's main function
+	// main function for if&else.go file
+	fmt.Println("Output for if&else.go")
 	fmt.Println(pow(3, 2, 10), pow(3, 2, 1))
 }

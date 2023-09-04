@@ -11,5 +11,5 @@ type Vertex struct {
 func main() {
 	v := Vertex{1, 2}
 
-	fmt.Println(v.X) //struct fields can be accessed using a dot
+	fmt.Println(v.X) //struct fields can be accessed by using a dot
 }

@@ -15,7 +15,7 @@ func main() {
 	// defer statement is used to schedule a function call to be executed when the surrounding function returns.
 
 	//stacking defers
-	fmt.Println("counting")
+	fmt.Println("counting...")
 
 	for i := 0; i < 10; i++ {
 		defer fmt.Println(i)

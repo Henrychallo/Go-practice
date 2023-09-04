@@ -13,7 +13,7 @@ func main() {
 
 	switch day {
 	case "Monday":
-		fmt.Println("It's the beginning of the week.")
+		fmt.Println("It's the start of the week.")
 	case "Tuesday":
 		fmt.Println("You're making progress.")
 	case "Wednesday":
